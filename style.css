@@ -1,0 +1,28 @@
+img {
+    margin: auto;
+    margin-top: 130px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+input {
+    border: solid 1px gray;
+    border-radius: 5px;
+    width: 30%;
+}
+
+button {
+    background-color: rgb(150, 224, 218);
+    border-style: solid 1px rgb(70, 67, 67);
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    color: black;
+    font-size: small;
+}
